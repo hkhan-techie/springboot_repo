@@ -1,7 +1,7 @@
-package com.technoflix.h2db.controller;
+package com.mywork.h2db.controller;
 
-import com.technoflix.h2db.model.Employee;
-import com.technoflix.h2db.service.EmployeeService;
+import com.mywork.h2db.model.Employee;
+import com.mywork.h2db.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.technoflix.h2db;
+package com.mywork.h2db;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

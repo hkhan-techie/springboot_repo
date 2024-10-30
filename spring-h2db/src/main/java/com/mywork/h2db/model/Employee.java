@@ -1,4 +1,4 @@
-package com.technoflix.h2db.model;
+package com.mywork.h2db.model;
 
 import jakarta.persistence.*;
 

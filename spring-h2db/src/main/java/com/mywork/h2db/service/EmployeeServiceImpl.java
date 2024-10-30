@@ -1,7 +1,7 @@
-package com.technoflix.h2db.service;
+package com.mywork.h2db.service;
 
-import com.technoflix.h2db.model.Employee;
-import com.technoflix.h2db.repository.EmployeeRepository;
+import com.mywork.h2db.model.Employee;
+import com.mywork.h2db.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

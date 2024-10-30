@@ -1,6 +1,6 @@
-package com.technoflix.h2db.service;
+package com.mywork.h2db.service;
 
-import com.technoflix.h2db.model.Employee;
+import com.mywork.h2db.model.Employee;
 
 import java.util.List;
 

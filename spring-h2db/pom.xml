@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.technoflix.h2db</groupId>
+	<groupId>com.mywork.h2db</groupId>
 	<artifactId>spring-h2db</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-h2db</name>
