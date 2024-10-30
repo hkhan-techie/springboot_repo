@@ -1,4 +1,4 @@
-package com.technoflix.swagger.model;
+package com.mywork.swagger.model;
 
 public class Plant {
     private Long id;

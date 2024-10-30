@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.technoflix.swagger</groupId>
+	<groupId>com.mywork.swagger</groupId>
 	<artifactId>swagger-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>swagger-demo</name>

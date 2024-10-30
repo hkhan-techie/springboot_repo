@@ -1,6 +1,6 @@
-package com.technoflix.swagger.service;
+package com.mywork.swagger.service;
 
-import com.technoflix.swagger.model.Plant;
+import com.mywork.swagger.model.Plant;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

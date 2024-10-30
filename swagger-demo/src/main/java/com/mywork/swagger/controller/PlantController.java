@@ -1,7 +1,7 @@
-package com.technoflix.swagger.controller;
+package com.mywork.swagger.controller;
 
-import com.technoflix.swagger.model.Plant;
-import com.technoflix.swagger.service.PlantService;
+import com.mywork.swagger.model.Plant;
+import com.mywork.swagger.service.PlantService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

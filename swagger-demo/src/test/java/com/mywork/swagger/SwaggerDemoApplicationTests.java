@@ -1,4 +1,4 @@
-package com.technoflix.swagger;
+package com.mywork.swagger;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

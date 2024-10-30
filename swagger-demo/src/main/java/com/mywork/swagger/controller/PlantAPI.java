@@ -1,6 +1,6 @@
-package com.technoflix.swagger.controller;
+package com.mywork.swagger.controller;
 
-import com.technoflix.swagger.model.Plant;
+import com.mywork.swagger.model.Plant;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
