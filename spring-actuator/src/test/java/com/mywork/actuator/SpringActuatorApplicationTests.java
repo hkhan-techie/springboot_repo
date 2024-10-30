@@ -1,4 +1,4 @@
-package com.technoflix.actuator;
+package com.mywork.actuator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

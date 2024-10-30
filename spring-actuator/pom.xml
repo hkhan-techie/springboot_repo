@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.technoflix.actuator</groupId>
+	<groupId>com.mywork.actuator</groupId>
 	<artifactId>spring-actuator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-actuator</name>

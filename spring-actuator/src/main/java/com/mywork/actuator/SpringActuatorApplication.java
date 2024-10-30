@@ -1,4 +1,4 @@
-package com.technoflix.actuator;
+package com.mywork.actuator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
