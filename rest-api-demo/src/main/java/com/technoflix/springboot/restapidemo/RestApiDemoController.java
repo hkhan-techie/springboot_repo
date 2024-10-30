@@ -8,7 +8,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/rest-api")
 public class RestApiDemoController {
-    static List<Employee> employees= new ArrayList<Employee>();
+    static List<Employee> employees= new ArrayList<>();
     static {
          employees.add(new Employee(1, "Hidayath"));
          employees.add(new Employee(2, "John"));

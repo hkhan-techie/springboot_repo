@@ -1,4 +1,4 @@
-package com.technoflix.logging.lombok.demo;
+package com.mywork.logging.lombok.demo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

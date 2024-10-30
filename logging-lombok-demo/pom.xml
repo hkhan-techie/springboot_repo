@@ -8,7 +8,7 @@
         <version>3.3.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.technoflix.logging.lombok</groupId>
+    <groupId>com.mywork.logging.lombok</groupId>
     <artifactId>logging-lombok-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>logging-lombok-demo</name>

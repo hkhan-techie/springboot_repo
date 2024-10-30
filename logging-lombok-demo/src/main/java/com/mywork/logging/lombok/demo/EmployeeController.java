@@ -1,4 +1,4 @@
-package com.technoflix.logging.lombok.demo;
+package com.mywork.logging.lombok.demo;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
