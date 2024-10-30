@@ -1,4 +1,4 @@
-package com.technoflix.springboot.restapidemo;
+package com.mywork.springboot.restapidemo;
 
 import org.springframework.web.bind.annotation.*;
 
